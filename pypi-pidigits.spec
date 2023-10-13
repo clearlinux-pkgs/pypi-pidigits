@@ -5,7 +5,7 @@
 #
 Name     : pypi-pidigits
 Version  : 0.5
-Release  : 1
+Release  : 2
 URL      : https://github.com/transmogrifier/pidigits/archive/refs/tags/v0.5.tar.gz
 Source0  : https://github.com/transmogrifier/pidigits/archive/refs/tags/v0.5.tar.gz
 Summary  : Generate arbitrary number of digits of Pi  or Tau using a streaming algorithm.
